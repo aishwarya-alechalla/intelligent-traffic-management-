@@ -1,0 +1,2 @@
+Requirement already satisfied: h5py in c:\users\muthi\onedrive\documents\trafficmanagement-main\venv\lib\site-packages (3.10.0)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\muthi\onedrive\documents\trafficmanagement-main\venv\lib\site-packages (from h5py) (1.26.0)
